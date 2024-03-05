@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31604fa0.css",
+    "main.js": "/static/js/main.6ff578f4.js",
+    "static/media/cake6(selected).glb": "/static/media/cake6(selected).32bc1df70cb5126e009f.glb",
+    "index.html": "/index.html",
+    "main.31604fa0.css.map": "/static/css/main.31604fa0.css.map",
+    "main.6ff578f4.js.map": "/static/js/main.6ff578f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31604fa0.css",
+    "static/js/main.6ff578f4.js"
+  ]
+}
